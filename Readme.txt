@@ -27,4 +27,4 @@ PyTest
 Module "requests"
 
 Start:test
-To start test suite, just execute "pytest test.py"
+To start test suite, just execute "python pytest test.py"
